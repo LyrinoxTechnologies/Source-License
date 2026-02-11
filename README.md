@@ -2,25 +2,25 @@
   <img src="logo.svg" alt="Source License Logo" width="400">
 </div>
 
-[![CodeQL Security Analysis](https://github.com/PixelRidgeSoftworks/Source-License/actions/workflows/codeql.yml/badge.svg)](https://github.com/PixelRidgeSoftworks/Source-License/actions/workflows/codeql.yml) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/j6v99ZPkrQ)
+[![CodeQL Security Analysis](https://github.com/LyrinoxTechnologies/Source-License/actions/workflows/codeql.yml/badge.svg)](https://github.com/LyrinoxTechnologies/Source-License/actions/workflows/codeql.yml) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/j6v99ZPkrQ)
 
 # Source License - Professional Software Licensing Platform
 
-> **ALPHA RELEASE:** Source License is currently in Alpha. While feature-complete for most use cases, you may encounter issues. Please report bugs via [GitHub Issues](https://github.com/PixelRidgeSoftworks/Source-License/issues).
+> **ALPHA RELEASE:** Source License is currently in Alpha. While feature-complete for most use cases, you may encounter issues. Please report bugs via [GitHub Issues](https://github.com/LyrinoxTechnologies/Source-License/issues).
 
-## [📱 Live Demo](https://source-license.onrender.com/) | [👨‍💼 Admin Demo](https://source-license.onrender.com/admin) | [📖 Documentation Wiki](https://github.com/PixelRidgeSoftworks/Source-License/wiki)
+## [📱 Live Demo](https://source-license.onrender.com/) | [👨‍💼 Admin Demo](https://source-license.onrender.com/admin) | [📖 Documentation Wiki](https://github.com/LyrinoxTechnologies/Source-License/wiki)
 
 A comprehensive Ruby/Sinatra-based software licensing management system with integrated payment processing, secure license validation APIs, and enterprise-grade features for independent software vendors.
 
 ## 📖 Complete Documentation
 
-**All detailed documentation has been moved to the [Project Wiki](https://github.com/PixelRidgeSoftworks/Source-License/wiki)**
+**All detailed documentation has been moved to the [Project Wiki](https://github.com/LyrinoxTechnologies/Source-License/wiki)**
 
-- **[Installation Guide](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Installation-Guide)** - Complete setup instructions
-- **[API Reference](https://github.com/PixelRidgeSoftworks/Source-License/wiki/API-Reference)** - REST API documentation  
-- **[Admin Guide](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Admin-Guide)** - Administrative documentation
-- **[Architecture Overview](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Architecture-Overview)** - System design and components
-- **[Development Guide](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Development-Guide)** - Contributing and development setup
+- **[Installation Guide](https://github.com/LyrinoxTechnologies/Source-License/wiki/Installation-Guide)** - Complete setup instructions
+- **[API Reference](https://github.com/LyrinoxTechnologies/Source-License/wiki/API-Reference)** - REST API documentation  
+- **[Admin Guide](https://github.com/LyrinoxTechnologies/Source-License/wiki/Admin-Guide)** - Administrative documentation
+- **[Architecture Overview](https://github.com/LyrinoxTechnologies/Source-License/wiki/Architecture-Overview)** - System design and components
+- **[Development Guide](https://github.com/LyrinoxTechnologies/Source-License/wiki/Development-Guide)** - Contributing and development setup
 
 ## Overview
 
@@ -86,7 +86,7 @@ Source License is a complete solution for software vendors who need to sell, man
 
 1. **Clone and install**
    ```bash
-   git clone https://github.com/PixelRidgeSoftworks/Source-License.git
+   git clone https://github.com/LyrinoxTechnologies/Source-License.git
    cd Source-License
    
    # Windows
@@ -125,7 +125,7 @@ PAYPAL_CLIENT_ID=your_client_id
 PAYPAL_USE_WEBHOOKS=true
 ```
 
-**📖 For complete installation instructions, database setup, and configuration options, see the [Installation Guide](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Installation-Guide).**
+**📖 For complete installation instructions, database setup, and configuration options, see the [Installation Guide](https://github.com/LyrinoxTechnologies/Source-License/wiki/Installation-Guide).**
 
 ## 📁 Project Structure
 
@@ -145,7 +145,7 @@ Source-License/
 └── .env.example            # Configuration template
 ```
 
-**📖 For detailed architecture, database schema, and component documentation, see the [Architecture Overview](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Architecture-Overview).**
+**📖 For detailed architecture, database schema, and component documentation, see the [Architecture Overview](https://github.com/LyrinoxTechnologies/Source-License/wiki/Architecture-Overview).**
 
 ## 🔌 API Reference
 
@@ -169,7 +169,7 @@ curl -X POST http://localhost:4567/api/license/XXXX-XXXX-XXXX-XXXX/activate \
 | GET | `/api/products` | List available products |
 | POST | `/api/orders` | Create new order |
 
-**📖 For complete API documentation, authentication details, and code examples, see the [API Reference](https://github.com/PixelRidgeSoftworks/Source-License/wiki/API-Reference).**
+**📖 For complete API documentation, authentication details, and code examples, see the [API Reference](https://github.com/LyrinoxTechnologies/Source-License/wiki/API-Reference).**
 
 ## 🎨 Customization & Development
 
@@ -179,7 +179,7 @@ curl -X POST http://localhost:4567/api/license/XXXX-XXXX-XXXX-XXXX/activate \
 - **Code Quality**: RuboCop style enforcement and auto-fixing
 - **Production Deployment**: Automated scripts for Windows/Linux/macOS
 
-**📖 For detailed customization guides, development setup, and deployment instructions, see the [Development Guide](https://github.com/PixelRidgeSoftworks/Source-License/wiki/Development-Guide).**
+**📖 For detailed customization guides, development setup, and deployment instructions, see the [Development Guide](https://github.com/LyrinoxTechnologies/Source-License/wiki/Development-Guide).**
 
 ## 📖 Use Cases
 
@@ -216,9 +216,9 @@ This project is licensed under the GNU General Public License v2.0 - see the [LI
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/PixelRidgeSoftworks/Source-License/issues)
-- **Documentation**: [Project Wiki](https://github.com/PixelRidgeSoftworks/Source-License/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/PixelRidgeSoftworks/Source-License/discussions)
+- **Issues**: [GitHub Issues](https://github.com/LyrinoxTechnologies/Source-License/issues)
+- **Documentation**: [Project Wiki](https://github.com/LyrinoxTechnologies/Source-License/wiki)
+- **Discussions**: [GitHub Discussions](https://github.com/LyrinoxTechnologies/Source-License/discussions)
 
 ## 📈 Roadmap
 
@@ -240,6 +240,6 @@ This project is licensed under the GNU General Public License v2.0 - see the [LI
 
 ---
 
-**Built with ❤️ using Ruby and Sinatra by the [PixelRidge Softworks team](https://pixelridgesoftworks.com)**
+**Built with ❤️ using Ruby and Sinatra by the [Lyrinox Technologies team](https://lyrinox.com)**
 
 *Source License - Empowering software vendors with professional licensing solutions*
