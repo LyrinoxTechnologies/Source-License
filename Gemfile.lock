@@ -111,6 +111,8 @@ GEM
       net-imap
       net-pop
       net-smtp
+    mcp (0.8.0)
+      json-schema (>= 4.1)
     mini_mime (1.1.5)
     minitest (6.0.1)
       prism (~> 1.5)
@@ -144,7 +146,7 @@ GEM
     openssl-signature_algorithm (1.3.0)
       openssl (> 2.0)
     parallel (1.27.0)
-    parser (3.3.10.1)
+    parser (3.3.10.2)
       ast (~> 2.4.1)
       racc
     pp (0.6.3)
@@ -234,10 +236,11 @@ GEM
     rswag-ui (2.17.0)
       actionpack (>= 5.2, < 8.2)
       railties (>= 5.2, < 8.2)
-    rubocop (1.84.2)
+    rubocop (1.85.1)
       json (~> 2.3)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.1.0)
+      mcp (~> 0.6)
       parallel (~> 1.10)
       parser (>= 3.3.0.2)
       rainbow (>= 2.2.2, < 4.0)
