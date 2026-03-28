@@ -6,6 +6,8 @@
 
 # Source License - Professional Software Licensing Platform
 
+> **NOTE:** CodeQL Security Analysis is failing due to a issue outside of the codebase. It will be resolved within the next 30 days and begin displaying the correct information once again
+
 > **ALPHA RELEASE:** Source License is currently in Alpha. While feature-complete for most use cases, you may encounter issues. Please report bugs via [GitHub Issues](https://github.com/LyrinoxTechnologies/Source-License/issues).
 
 ## [📱 Live Demo](https://source-license.onrender.com/) | [👨‍💼 Admin Demo](https://source-license.onrender.com/admin) | [📖 Documentation Wiki](https://github.com/LyrinoxTechnologies/Source-License/wiki)
