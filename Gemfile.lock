@@ -44,7 +44,7 @@ GEM
       erubi (~> 1.4)
       parser (>= 2.4)
       smart_properties
-    bigdecimal (4.0.1)
+    bigdecimal (4.1.0)
     bindata (2.5.1)
     builder (3.3.0)
     cbor (0.5.10.1)
@@ -271,7 +271,7 @@ GEM
     safety_net_attestation (0.5.0)
       jwt (>= 2.0, < 4.0)
     securerandom (0.4.1)
-    sequel (5.102.0)
+    sequel (5.103.0)
       bigdecimal
     simplecov (0.22.0)
       docile (~> 1.1)
